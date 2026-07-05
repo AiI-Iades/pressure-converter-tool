@@ -1,2 +1,5 @@
-# pressure-converter-tool
-CLI tool for converting pressure units (Pa, atm, bar, psi)
+# Pressure Converter CLI
+Convert between pressure units: Pascal (Pa), Atmosphere (atm), Bar, and Psi (psi)
+
+Usage:
+pressure-converter 100 --from Pa --to atm
